@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>0</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">43295ae1094232007f44e1046c8ff615</sp_column>
+        <sp_widget display_value="Notes List">296321a54f7d4f004e584b8d0210c7a9</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-08 17:43:14</sys_created_on>
+        <sys_id>edbf37154f23030002c844b18110c79f</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Notes</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_instance_edbf37154f23030002c844b18110c79f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-08 18:44:37</sys_updated_on>
+        <title>Notes</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "Notes",
+		"displayValue": "Notes"
+	},
+	"maximum": {
+		"value": "11",
+		"displayValue": "11"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=edbf37154f23030002c844b18110c79f"/>
+</record_update>
